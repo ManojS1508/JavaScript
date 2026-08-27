@@ -384,5 +384,3 @@ console.log(likeJavaScript);
 
 let webpageName = prompt("Enter your name:");
 document.writeln(webpageName);
-
-//
